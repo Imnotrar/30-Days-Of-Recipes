@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">30 Days of Recipes</string>
+
+    <string name="date1">recipe day 1</string>
+    <string name="title1">Bakso</string>
+    <string name="description1">Bakso adalah sup bola daging sapi yang gurih, disajikan dengan mie dan berbagai topping pilihan.</string>
+
+    <string name="date2">recipe day 2</string>
+    <string name="title2">Rendang</string>
+    <string name="description2">Rendang adalah masakan daging sapi yang dimasak dengan santan dan rempah-rempah khas Indonesia yang kaya rasa.</string>
+
+    <string name="date3">recipe day 3</string>
+    <string name="title3">Soto</string>
+    <string name="description3">Soto adalah sup tradisional Indonesia yang terbuat dari daging, kaldu, dan sayuran, sering disajikan dengan nasi atau lontong.</string>
+
+    <string name="date4">recipe day 4</string>
+    <string name="title4">Ayam Geprek</string>
+    <string name="description4">Ayam Geprek adalah ayam goreng yang dihancurkan dan dilumuri sambal pedas, disajikan dengan nasi hangat.</string>
+
+    <string name="date5">recipe day 5</string>
+    <string name="title5">Gado-gado</string>
+    <string name="description5">Gado-gado adalah salad sayuran Indonesia yang disiram dengan saus kacang yang kaya rasa.</string>
+
+    <string name="date6">recipe day 6</string>
+    <string name="title6">Nasi Tutug Oncom</string>
+    <string name="description6">Nasi Tutug Oncom adalah nasi yang dicampur dengan oncom yang dibumbui, memberikan rasa gurih yang khas.</string>
+
+    <string name="date7">recipe day 7</string>
+    <string name="title7">Sate Taichan</string>
+    <string name="description7">Sate Taichan adalah sate ayam yang dibakar dan disajikan dengan sambal pedas, tanpa bumbu kacang.</string>
+
+    <string name="date8">recipe day 8</string>
+    <string name="title8">Nasi Padang</string>
+    <string name="description8">Nasi Padang adalah hidangan khas Minangkabau yang terdiri dari nasi putih dengan berbagai lauk-pauk yang kaya rasa.</string>
+</resources>
